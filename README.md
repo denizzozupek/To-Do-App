@@ -28,7 +28,7 @@ Light Mode
 Dark Mode
 <img width="1008" height="798" alt="image" src="https://github.com/user-attachments/assets/d95641ea-db01-4cf3-9733-86df5b1684ed" />
 
-## Notes
+## Notes🔴
 
 - This is a beginner project. I’m open to suggestions and feedback.  
 - Make sure to keep the `icons` folder with the app in the same directory; otherwise, some icons may not display correctly.
